@@ -83,11 +83,11 @@ Returns true if an order is complete, and false otherwise.
 
 ### isIdle
 
-Returns true if the checkout state has changed, but no activity happened, and false otherwise.
+Returns true if the checkout has had some activity, but is currently waiting for user input, and false otherwise.
 
 #### _Returns_
 
--   `boolean`: Whether the checkout state has changed, but no activity happened.
+-   `boolean`: Whether the checkout has had some activity, but is currently waiting for user input.
 
 ### isProcessing
 
