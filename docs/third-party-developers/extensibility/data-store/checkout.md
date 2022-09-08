@@ -91,11 +91,11 @@ Returns true if the checkout state has changed, but no activity happened, and fa
 
 ### isProcessing
 
-Returns true if an order is processing, and false otherwise.
+Returns true if the checkout is processing, and false otherwise.
 
 #### _Returns_
 
--   `boolean`: Whether an order is processing.
+-   `boolean`: Whether the checkout is processing.
 
 <!-- FEEDBACK -->
 
