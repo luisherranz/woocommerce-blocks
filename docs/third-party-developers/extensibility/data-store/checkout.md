@@ -25,14 +25,6 @@ Returns the ID of the customer.
 
 -   `number`: ID of the customer.
 
-### getCheckoutState
-
-Returns the checkout state.
-
-#### _Returns_
-
--   _state_ `Object`: Checkout state.
-
 ### getOrderNotes
 
 Returns the order notes.
