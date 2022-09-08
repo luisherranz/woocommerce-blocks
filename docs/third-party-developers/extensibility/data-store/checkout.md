@@ -67,11 +67,11 @@ Returns true if an order is about to be processed, and false otherwise.
 
 ### isCalculating
 
-Returns true if any of the totals, taxes, shipping, etc. need to be calculated, and false otherwise.
+Returns true if there is an in-flight request to update any values, and false otherwise.
 
 #### _Returns_
 
--   `boolean`: Whether the order needs calculation.
+-   `boolean`: Whether there is an in-flight request to update any values.
 
 ### isComplete
 
