@@ -75,11 +75,11 @@ Returns true if there is an in-flight request to update any values, and false ot
 
 ### isComplete
 
-Returns true if an order is complete, and false otherwise.
+Returns true if the order is complete, and false otherwise.
 
 #### _Returns_
 
--   `boolean`: Whether an order is complete.
+-   `boolean`: Whether the order is complete.
 
 ### isIdle
 
