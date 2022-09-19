@@ -19,11 +19,11 @@
 
 ### getCustomerId
 
-Returns the ID of the customer.
+Returns the WordPress user ID of the customer whose order is currently processed by the Checkout block.
 
 #### _Returns_
 
--   `number`: ID of the customer.
+-   `number`: WordPress user ID of the customer.
 
 ### getOrderNotes
 
